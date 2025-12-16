@@ -18,13 +18,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/38932988",
+			url: "https://space.bilibili.com/526821569",
 			showName: false,
 		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/CuteLeaf",
+			url: "https://github.com/2992253553",
 			showName: false,
 		},
 		{
